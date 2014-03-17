@@ -9,6 +9,8 @@ package edu.wpi.first.wpilibj.templates;
 
 This is just a test! This error is meant to be here!
 
+So many errors
+
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
